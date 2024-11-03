@@ -1,6 +1,6 @@
-# Mi Proyecto Web
 
-## Descripción
+<p>Proyecto Integrador para el curso de Front End con JavaScript de Talento Tech 2024, Agencia de Habilidades para el Futuro (Ministerio de Educación, CABA, Argentina).</p>
+<h2> Descripción </h2>
 
 Este proyecto es una página web empresarial diseñada con HTML5 y CSS3, enfocada en ofrecer una experiencia de usuario responsiva y estética. La página incluye secciones de Productos, Reseñas y Contacto, con un formulario funcional para que los visitantes puedan comunicarse.
 
@@ -17,4 +17,4 @@ Este proyecto es una página web empresarial diseñada con HTML5 y CSS3, enfocad
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone https://github.com/Ivanna49/FrontTT2024.git
+   git clone https://github.com/Ivanna49/FrontendTT2024.git
