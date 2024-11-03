@@ -1,25 +1,30 @@
-# FrontendTT2024
+
+<h1 align="center">pROYECTO fRONTENDtt2024 <a href="#"><img width="15%" height="auto" text-align="center"  height="10px"/></a></h1> 
+
 
 ## Descripción
 FrontendTT2024 es un proyecto de desarrollo frontend diseñado para demostrar las habilidades y mejores prácticas en tecnologías modernas de desarrollo web. Este proyecto incluye la implementación de interfaces de usuario intuitivas y adaptables que proporcionan una experiencia de usuario óptima en diferentes dispositivos y navegadores.
 
 
-FrontendTT2024 es un proyecto de desarrollo frontend diseñado para demostrar las habilidades y mejores prácticas en tecnologías modernas de desarrollo web. Este proyecto incluye la implementación de interfaces de usuario intuitivas y adaptables que proporcionan una experiencia de usuario óptima en diferentes dispositivos y naveg
 
-## Tecnologías utilizadas
-- **HTML5**: Para estructurar el contenido de la web.
-- **CSS3**: Para estilizar y hacer el diseño responsive.
-- **JavaScript (ES6+)**: Para agregar interactividad y manejar la lógica de la aplicación.
-- **React.js**: Como framework de desarrollo para componentes reutilizables y gestión eficiente del DOM.
-- **Webpack**: Para la gestión de módulos y optimización del proyecto.
-- **Babel**: Para la transpilación de código moderno a versiones compatibles con todos los navegadores.
+
+## Tecnologías utilizadas 📜 Languages:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+
+## 📂 Version Control Management
+![Git](https://img.shields.io/badge/git-%23CC342D.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
    
    ``
 ```bash
-   git clone https://github.com/tuusuario/FrontendTT2024.git
+   git clone https://github.com/Ivanna49/FrontendTT2024.git
 
 
 
